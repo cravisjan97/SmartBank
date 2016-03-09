@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\C RAVI SUNDARAM\Desktop\ravi\pss projects\picupload\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\C RAVI SUNDARAM\Desktop\ravi\pss projects\picupload\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-2c1f0287ac83739fbc84e0e8d26422509d994dd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\C RAVI SUNDARAM\Desktop\ravi\pss projects\picupload\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\C RAVI SUNDARAM\Desktop\ravi\pss projects\picupload\app\build\intermediates\pre-dexed\debug\classes-e3505aa0f2d721c436ab67f429b70f881b4b1bea.jar" />
+    </item>
+    <item
+        jar="C:\Users\C RAVI SUNDARAM\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\C RAVI SUNDARAM\Desktop\ravi\pss projects\picupload\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-b4160843a9ed5ef4df6b0d756407d2c639a06f76.jar" />
+    </item>
+    <item
+        jar="C:\Users\C RAVI SUNDARAM\Desktop\ravi\pss projects\picupload\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\C RAVI SUNDARAM\Desktop\ravi\pss projects\picupload\app\build\intermediates\pre-dexed\debug\classes-7b9aed1b18c5118331fcfddc9cff5ce36dcd0830.jar" />
+    </item>
+
+</items>
